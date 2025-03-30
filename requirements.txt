@@ -1,5 +1,1 @@
-streamlit>=1.30.0
-matplotlib>=3.7.0
-pandas>=1.5.0
-numpy>=1.22.0
-openseespy>=3.5.0.2
+pip install streamlit openseespy matplotlib
